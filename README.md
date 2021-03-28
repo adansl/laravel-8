@@ -43,6 +43,6 @@ To enable Xdebug in Windows with WSL2 you have to:
 ## License
 This work is primarily distributed under the terms of both the [MIT license](LICENSE-MIT) and the [Apache License (Version 2.0)](LICENSE-APACHE).
 
-##Credits:
+## Credits:
 - [Jose Quintana](https://github.com/joseluisq/alpine-php-fpm) for the php docker image.
 
