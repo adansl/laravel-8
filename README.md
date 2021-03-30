@@ -21,12 +21,12 @@ You need Docker and Docker compose.
 - **XDebug Listening Port** - `:9003`
 
 
-###Makefile
+### Makefile
 
 Instead of running certains commands inside containers, there's a Makefile with some basic commands 
 
 
-###WSL2 and Xdebug
+### WSL2 and Xdebug
 
 To enable Xdebug in Windows with WSL2 you have to:
 - Make sure that PHPStorm is configured with port 9003 and is listening for connections.
